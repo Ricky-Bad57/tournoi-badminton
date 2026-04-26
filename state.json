@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:10:27.687Z",
+    "updatedAt": "2026-04-26T15:10:31.072Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -191,9 +191,19 @@
     },
     {
       "poolName": "Poule D",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Sharks Attack",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Dragons Fire",
           "wins": 0,
@@ -202,27 +212,7 @@
           "pointsDiff": 2,
           "setsWon": 1,
           "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Sharks Attack",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Lions United",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Hurricane Power",
@@ -231,6 +221,16 @@
           "draws": 1,
           "pointsDiff": -2,
           "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
+        },
+        {
+          "name": "Lions United",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
+          "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -297,11 +297,11 @@
       "status": "upcoming",
       "team1": "Sharks Attack",
       "team2": "Lions United",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Sharks Attack"
     },
     {
       "poolName": "Poule A",
