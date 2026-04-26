@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:10:39.658Z",
+    "updatedAt": "2026-04-26T15:10:40.897Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -199,8 +199,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 6,
-          "setsWon": 1,
+          "pointsDiff": 27,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -229,9 +229,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -6,
+          "pointsDiff": -27,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -299,7 +299,7 @@
       "team2": "Lions United",
       "set1Team1": 21,
       "set1Team2": 15,
-      "set2Team1": "",
+      "set2Team1": 21,
       "set2Team2": "",
       "winner": "Sharks Attack"
     },
