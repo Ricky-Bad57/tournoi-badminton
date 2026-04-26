@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:06:08.450Z",
+    "updatedAt": "2026-04-26T15:06:09.769Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -102,12 +102,12 @@
       "teams": [
         {
           "name": "Lightning Fast",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 11,
+          "draws": 1,
+          "pointsDiff": 1,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -133,10 +133,10 @@
         {
           "name": "Tornado Spin",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -11,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -1,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -273,9 +273,9 @@
       "team2": "Lightning Fast",
       "set1Team1": 10,
       "set1Team2": 21,
-      "set2Team1": "",
+      "set2Team1": 10,
       "set2Team2": "",
-      "winner": "Lightning Fast"
+      "winner": null
     },
     {
       "poolName": "Poule A",
