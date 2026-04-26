@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:05:19.187Z",
+    "updatedAt": "2026-04-26T15:05:34.047Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -144,21 +144,21 @@
     },
     {
       "poolName": "Poule C",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Cyclone Speed",
-          "wins": 0,
+          "name": "Panthers Pro",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Panthers Pro",
+          "name": "Cyclone Speed",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -168,7 +168,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Eagles FC",
+          "name": "Wolves Pack",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -178,13 +178,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Wolves Pack",
+          "name": "Eagles FC",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -245,11 +245,11 @@
       "status": "upcoming",
       "team1": "Panthers Pro",
       "team2": "Eagles FC",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Panthers Pro"
     },
     {
       "poolName": "Poule D",
