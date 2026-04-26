@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:10:43.949Z",
+    "updatedAt": "2026-04-26T15:10:47.908Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -294,7 +294,7 @@
       "poolName": "Poule D",
       "court": 5,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Sharks Attack",
       "team2": "Lions United",
       "set1Team1": 21,
