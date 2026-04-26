@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tournamentName": "🏸 Tournoi de Badminton",
+    "updatedAt": "2026-04-26T15:02:36.003Z",
+    "phase": "config",
+    "numTeams": 16
+  },
+  "pools": [],
+  "poolRankings": [],
+  "poolMatches": [],
+  "tournaments": {},
+  "qualifications": {
+    "gold": [],
+    "silver": [],
+    "bronze": [],
+    "expert": []
+  },
+  "finalRanking": []
+}
