@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:12:27.804Z",
+    "updatedAt": "2026-04-26T15:12:32.077Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -148,13 +148,13 @@
       "total": 6,
       "teams": [
         {
-          "name": "Cyclone Speed",
-          "wins": 0,
+          "name": "Wolves Pack",
+          "wins": 1,
           "losses": 0,
-          "draws": 1,
-          "pointsDiff": 12,
-          "setsWon": 1,
-          "setsLost": 1,
+          "draws": 0,
+          "pointsDiff": 9,
+          "setsWon": 2,
+          "setsLost": 0,
           "poolPosition": 1
         },
         {
@@ -178,13 +178,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Wolves Pack",
+          "name": "Cyclone Speed",
           "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -12,
-          "setsWon": 1,
-          "setsLost": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -9,
+          "setsWon": 0,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -320,14 +320,14 @@
       "poolName": "Poule C",
       "court": 7,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Cyclone Speed",
       "team2": "Wolves Pack",
       "set1Team1": 15,
       "set1Team2": 21,
       "set2Team1": 18,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Wolves Pack"
     },
     {
       "poolName": "Poule C",
