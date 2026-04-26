@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:05:55.915Z",
+    "updatedAt": "2026-04-26T15:05:58.172Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -199,7 +199,7 @@
           "wins": 0,
           "losses": 0,
           "draws": 1,
-          "pointsDiff": 19,
+          "pointsDiff": 2,
           "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 1
@@ -229,7 +229,7 @@
           "wins": 0,
           "losses": 0,
           "draws": 1,
-          "pointsDiff": -19,
+          "pointsDiff": -2,
           "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
@@ -255,13 +255,13 @@
       "poolName": "Poule D",
       "court": 2,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Dragons Fire",
       "team2": "Hurricane Power",
       "set1Team1": 21,
       "set1Team2": 23,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 17,
       "winner": null
     },
     {
