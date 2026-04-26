@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:06:04.308Z",
+    "updatedAt": "2026-04-26T15:06:06.088Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -105,7 +105,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 1,
+          "pointsDiff": 7,
           "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
@@ -135,7 +135,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -1,
+          "pointsDiff": -7,
           "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
@@ -271,7 +271,7 @@
       "status": "upcoming",
       "team1": "Tornado Spin",
       "team2": "Lightning Fast",
-      "set1Team1": 1,
+      "set1Team1": 7,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
