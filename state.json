@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:05:45.134Z",
+    "updatedAt": "2026-04-26T15:05:46.489Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -242,7 +242,7 @@
       "poolName": "Poule C",
       "court": 1,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Panthers Pro",
       "team2": "Eagles FC",
       "set1Team1": 21,
