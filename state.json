@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:10:54.156Z",
+    "updatedAt": "2026-04-26T15:10:56.146Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -54,16 +54,6 @@
       "total": 6,
       "teams": [
         {
-          "name": "Thunder Bolt",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 12,
-          "setsWon": 1,
-          "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
           "name": "Phoenix Rise",
           "wins": 1,
           "losses": 0,
@@ -71,7 +61,27 @@
           "pointsDiff": 9,
           "setsWon": 2,
           "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Thunder Bolt",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 3,
+          "setsWon": 1,
+          "setsLost": 1,
           "poolPosition": 2
+        },
+        {
+          "name": "Tigers Team",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -3,
+          "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
         },
         {
           "name": "Storm Force",
@@ -81,16 +91,6 @@
           "pointsDiff": -9,
           "setsWon": 0,
           "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Tigers Team",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -12,
-          "setsWon": 0,
-          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -311,10 +311,10 @@
       "team1": "Thunder Bolt",
       "team2": "Tigers Team",
       "set1Team1": 12,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 12,
       "set2Team2": "",
-      "winner": "Thunder Bolt"
+      "winner": null
     },
     {
       "poolName": "Poule C",
