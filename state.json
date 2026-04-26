@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:05:58.172Z",
+    "updatedAt": "2026-04-26T15:06:02.359Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -255,7 +255,7 @@
       "poolName": "Poule D",
       "court": 2,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Dragons Fire",
       "team2": "Hurricane Power",
       "set1Team1": 21,
