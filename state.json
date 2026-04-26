@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-04-26T15:05:50.393Z",
+    "updatedAt": "2026-04-26T15:05:53.786Z",
     "phase": "poules",
     "numTeams": 16
   },
@@ -195,11 +195,11 @@
       "total": 6,
       "teams": [
         {
-          "name": "Dragons Fire",
+          "name": "Hurricane Power",
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
+          "pointsDiff": 2,
           "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
@@ -225,11 +225,11 @@
           "poolPosition": 3
         },
         {
-          "name": "Hurricane Power",
+          "name": "Dragons Fire",
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -2,
           "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
@@ -259,10 +259,10 @@
       "team1": "Dragons Fire",
       "team2": "Hurricane Power",
       "set1Team1": 21,
-      "set1Team2": "",
+      "set1Team2": 23,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": "Dragons Fire"
+      "winner": "Hurricane Power"
     },
     {
       "poolName": "Poule B",
